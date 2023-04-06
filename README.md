@@ -20,7 +20,7 @@ Extra_Meds.json contains crafting recipes for many more medkits, as well as reci
 
 
 
-I hope you enjoy this mod config, and if you want to support me and my modding adventures, you can find my Ko-Fi here https://ko-fi.com/meowletteblackpaw and my SPT profile here https://hub.sp-tarkov.com/user/14651-meowletteblackpaw/
+I hope you enjoy this mod config, and if you want to support me and my modding adventures, you can find my SPT profile here https://hub.sp-tarkov.com/user/14651-meowletteblackpaw/ and a link to my ko-fi from there.
 
 
 
